@@ -1,0 +1,4 @@
+// saattaa sisältää arkaluonteisia tietoja
+.env
+// asennetut moduulit
+node_modules

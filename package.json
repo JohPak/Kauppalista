@@ -1,0 +1,27 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "kauppalistasovellus",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohPak/Kauppalista.git"
+  },
+  "author": "Johanna Pakkala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohPak/Kauppalista/issues"
+  },
+  "homepage": "https://github.com/JohPak/Kauppalista#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.2"
+  }
+}
